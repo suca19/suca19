@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Carlos Sucapuca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer;Always+learning+new+things"></a>
 </p>
 # 💫 About Me:<br>
 🔭 I’m currently in Dorset College Dublin<br>👯 I’m looking to collaborate on Tech and Startups<br>:student: I’m currently learning `Computer Science` and `Software Engineering`.<br>:boom: You can visit [MY LAST PROJECT] http://ec2-34-240-42-22.eu-west-1.compute.amazonaws.com/ 
