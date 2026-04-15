@@ -70,9 +70,10 @@
 <details>
 <summary>💡 Fun Facts About Me</summary>
 
--I like to spend time with friends.
--i like to play chess.
--i like programming.
+-I like to spend time with friends
+-i like to play chess
+-i like programming
+
 </details>
 
 ---
