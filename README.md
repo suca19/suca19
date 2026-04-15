@@ -53,18 +53,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suca19&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suca19&theme=react&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suca19&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suca19&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+  
+![GitHub Streak](https://github-readme-streak-stats-nine-phi.vercel.app?user=suca19&theme=react&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suca19&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=suca19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -72,37 +66,16 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=suca19&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-### 📈 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=suca19&icon=0&color=0)
-
----
-
-### 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
-
 <details>
 <summary>💡 Fun Facts About Me</summary>
 
-- 🎮 I enjoy playing video games in my free time
-- 📚 I love reading tech blogs and documentation
-- ☕ Coffee is my best friend during coding sessions
-- 🌍 I'm open to collaborating on interesting projects worldwide
+-I like to spend time with friends.
+-i like to play chess.
+-i like programming.
 </details>
 
 ---
 
 <div align="center">
-  <b>Thanks for visiting my profile! 🙏</b>
+  <b>Thanks for visiting my profile!</b>
 </div>
