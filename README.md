@@ -14,7 +14,8 @@
 🌱 I'm passionate about building innovative solutions  
 🎯 2026 Goals: Contribute more to open source projects  
 💬 Ask me about **Full Stack Development, C#, and React**
-
+----
+Check out my => [Gists](https://suca19.github.io/gist-gallery/)
 ---
 
 ## 🌐 Socials
